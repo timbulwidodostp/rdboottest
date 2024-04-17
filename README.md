@@ -7,6 +7,8 @@ Sharp RD estimates using local polynomial regression Use rdrobust And rdboottest
 
 Robust nonparametric inference in regression-discontinuity designs Use rdrobust And rdboottest With STATA 18
 
+https://www.youtube.com/watch?v=cq144VpjrLk
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
